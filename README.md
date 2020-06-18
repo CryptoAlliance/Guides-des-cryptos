@@ -1,5 +1,7 @@
 A travers ce dépôt, nous vous partageons quelques guides/tutoriels rédigés par nos soins.
 
+Pour débuter dans le monde des cryptos, nous vous proponsons un [recueil de ressources](Recueil-pour-debutant.md).
+
 ## Liste des guides/tutoriels
 - Noeuds
 	- [Configuration de base d'un vps sous Ubuntu 16.04](noeuds/Configuration%20de%20base%20d'un%20vps%20sous%20ubuntu%2016.04.md)
