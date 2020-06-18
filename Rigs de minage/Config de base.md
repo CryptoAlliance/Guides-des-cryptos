@@ -1,4 +1,4 @@
-# Config de base proposé par Kaiser
+# Config de base proposé par Kaiser ((08 janvier 2020))
 
 * 6 Nvidia 1660 ti ou super avec au moins deux ventilo et une seul connectique d'alim pcie
 https://www.amazon.fr/MSI-GeForce-Graphique-DisplayPort-Refroidissement/dp/B07ZPM6WKQ

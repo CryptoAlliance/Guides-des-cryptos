@@ -9,3 +9,4 @@
 
 ### Monter son rig
 
+[Config de base](Rigs-de-minage/Config-de-base.md) proposé par Kaiser (08 janvier 2020)
