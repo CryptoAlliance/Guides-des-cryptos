@@ -1,0 +1,11 @@
+A travers ce dépôt, nous vous partageons quelques guides/tutoriels rédigés par nos soins.
+
+## Liste des guides/tutoriels
+- Noeuds
+	- [Configuration de base d'un vps sous Ubuntu 16.04](noeuds/Configuration%20de%20base%20d'un%20vps%20sous%20ubuntu%2016.04.md)
+- Projets
+	- ALQO
+		- [Compiler le node pour Raspberry](Projets/ALQO/Compiler_le_node_pour_rapsberry.md)
+
+------------
+Tous les écrits disponibles dans ce dépôt sont sous license [Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.fr "Licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International").
