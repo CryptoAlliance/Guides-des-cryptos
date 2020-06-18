@@ -1,6 +1,6 @@
 A travers ce dépôt, nous vous partageons quelques guides/tutoriels rédigés par nos soins.
 
-Pour débuter dans le monde des cryptos, nous vous proponsons un [recueil de ressources](Recueil-pour-debutant.md).
+Pour débuter dans le monde des cryptos, nous vous proposons un [recueil de ressources](Recueil-pour-debutant.md).
 
 ## Liste des guides/tutoriels
 - Noeuds
