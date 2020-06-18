@@ -2,6 +2,8 @@
 
 ## Bases générales
 
+* [Le Bitcoin et la Blockchain](https://youtu.be/du34gPopY5Y) par ScienceEtonnante et Heu?reka (Video Youtube)
+
 ## Bases du minage
 
 ### Introducation au minage
