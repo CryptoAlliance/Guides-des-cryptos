@@ -4,7 +4,7 @@ Pour débuter dans le monde des cryptos, nous vous proposons un [recueil de ress
 
 ## Liste des guides/tutoriels
 - Noeuds
-	- [Configuration de base d'un vps sous Ubuntu 16.04](Noeuds/Configuration de base d'un vps sous ubuntu 16.04.md)
+	- [Configuration de base d'un vps sous Ubuntu 16.04](Noeuds/Configuration_de base_d'un_vps_sous_ubuntu_16.04.md)
 - Projets
 	- ALQO
 		- [Compiler le node pour Raspberry](Projets/ALQO/Compiler_le_node_pour_rapsberry.md)
